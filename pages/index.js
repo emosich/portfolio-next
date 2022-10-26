@@ -1,6 +1,6 @@
 import Layout from "../components/Layout";
 import Link from "next/link";
-import { skills, experiences, projects } from "./profile";
+import { skills, experiences, projects } from "../public/profile";
 import { useState } from "react";
 import { useRouter } from "next/router";
 
